@@ -1,0 +1,62 @@
+index.html
+music.html
+nilangestars.html
+
+------------------------------------------------------------------------
+
+db
+	/2020
+		/music.js
+
+------------------------------------------------------------------------
+
+js
+	/aos.js
+	/bootstrap.min.js
+	/jquery-3.5.1.slim.min.js
+	/popper.min.js
+	/bootstrap-table.min.js
+
+------------------------------------------------------------------------
+
+css
+	/aos.css
+	/bootstrap.min.css
+	/style.css
+	/bootstrap-table.min.css
+
+------------------------------------------------------------------------
+
+fonts
+	/Aileron-BlackItalic.woff
+	/SF-Pro-Display-Regular.woff
+	/SF-Pro-Display-Semibold.woff
+
+------------------------------------------------------------------------
+
+certification
+	/music
+		/diamond-01.png
+		/gold-01.png
+		/platinum-01.png
+		/ultimate-01.png
+	/restaurant
+		/diamond-01.png
+		/gold-01.png
+		/platinum-01.png
+		/ultimate-01.png
+
+------------------------------------------------------------------------
+
+guide
+	/2020-01.png
+
+------------------------------------------------------------------------
+
+img
+	/ss.png
+
+------------------------------------------------------------------------
+
+junk
+	<All junk>
