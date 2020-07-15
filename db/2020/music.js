@@ -3,6 +3,18 @@
 var $table = $('#table');
     var mydata = 
 [
+	{
+        "star": "<a rel=\"tooltip\" title=\"Gold Star\" data-placement = \"left\"><img src=\"certification/music/gold-01.png\" width=\"40px;\" alt=\"Gold Star\"></a>",
+        "artist": "Dua Lipa",
+        "title": "Don't Start Now",
+        "date": "15 July, 2020"
+    },
+    {
+        "star": "<a rel=\"tooltip\" title=\"Gold Star\" data-placement = \"left\"><img src=\"certification/music/gold-01.png\" width=\"40px;\" alt=\"Gold Star\"></a>",
+        "artist": "Drake",
+        "title": "Toosie Slide",
+        "date": "15 July, 2020"
+    },
     {
         "star": "<a rel=\"tooltip\" title=\"Gold Star\" data-placement = \"left\"><img src=\"certification/music/gold-01.png\" width=\"40px;\" alt=\"Gold Star\"></a>",
         "artist": "Tones And I",
