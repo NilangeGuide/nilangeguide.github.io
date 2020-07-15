@@ -5,6 +5,12 @@ var $table = $('#table');
 [
 	{
         "star": "<a rel=\"tooltip\" title=\"Gold Star\" data-placement = \"left\"><img src=\"certification/music/gold-01.png\" width=\"40px;\" alt=\"Gold Star\"></a>",
+        "artist": "Ariana Grande, Justin Bieber",
+        "title": "Stuck with U",
+        "date": "15 July, 2020"
+    },
+	{
+        "star": "<a rel=\"tooltip\" title=\"Gold Star\" data-placement = \"left\"><img src=\"certification/music/gold-01.png\" width=\"40px;\" alt=\"Gold Star\"></a>",
         "artist": "Dua Lipa",
         "title": "Don't Start Now",
         "date": "15 July, 2020"
