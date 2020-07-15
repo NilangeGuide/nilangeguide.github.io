@@ -4,6 +4,12 @@ var $table = $('#table');
     var mydata = 
 [
 	{
+        "star": "<a rel=\"tooltip\" title=\"Platinum Star\" data-placement = \"left\"><img src=\"certification/music/platinum-01.png\" width=\"40px;\" alt=\"Platinum Star\"></a>",
+        "artist": "Lewis Capaldi",
+        "title": "Someone You Loved",
+        "date": "15 July, 2020"
+    },
+	{
         "star": "<a rel=\"tooltip\" title=\"Gold Star\" data-placement = \"left\"><img src=\"certification/music/gold-01.png\" width=\"40px;\" alt=\"Gold Star\"></a>",
         "artist": "Ariana Grande, Justin Bieber",
         "title": "Stuck with U",
