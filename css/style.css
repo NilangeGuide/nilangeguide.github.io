@@ -34,11 +34,18 @@
 .logo{
 	font-family: aileron;
 	font-size: 72px;
-	color: #1d2951;
+	color: #ffffff;
 	/*background: -webkit-linear-gradient(#07AAE9, #ED1C24);*/
 	/*background: url(../ss.jpg);
  	-webkit-background-clip: text;
  	-webkit-text-fill-color: transparent;*/
+}
+
+/*Blurred Nav*/
+.box {
+	background-color: rgba(29, 41, 81, 0.7);
+	-webkit-backdrop-filter: blur(15px);
+	backdrop-filter: blur(15px);
 }
 
 /*Theme contents end*/
@@ -66,13 +73,6 @@
 	src: url(../fonts/Aileron-BlackItalic.woff) format("woff");
 }
 /*Font Stuff ends*/
-
-/*Blurred Nav*/
-.box {
-	background-color: rgba(255, 255, 255, 0.7);
-	-webkit-backdrop-filter: blur(10px);
-	backdrop-filter: blur(10px);
-}
 
 /*Padding due to fixed nav*/
 body{
