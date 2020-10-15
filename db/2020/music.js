@@ -73,7 +73,7 @@ var $table = $('#table');
         "star": "<a rel=\"tooltip\" title=\"Gold Star\" data-placement = \"left\"><img src=\"certification/music/gold-01.png\" width=\"40px;\" alt=\"Gold Star\"></a>",
         "artist": "The Weeknd",
         "title": "Blinding Lights",
-        "date": "06 June, 2020*"
+        "date": "06 June, 2020"
     },
     {
         "star": "<a rel=\"tooltip\" title=\"Gold Star\" data-placement = \"left\"><img src=\"certification/music/gold-01.png\" width=\"40px;\" alt=\"Gold Star\"></a>",
