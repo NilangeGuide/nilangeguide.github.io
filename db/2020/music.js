@@ -3,12 +3,6 @@
 var $table = $('#table');
     var mydata = 
 [
-    {
-        "star": "<a rel=\"tooltip\" title=\"Platinum Star\" data-placement = \"left\"><img src=\"certification/music/platinum-01.png\" width=\"40px;\" alt=\"Platinum Star\"></a>",
-        "artist": "Lil Nas X",
-        "title": "Old Town Road",
-        "date": "15 October, 2020"
-    },
 	{
         "star": "<a rel=\"tooltip\" title=\"Platinum Star\" data-placement = \"left\"><img src=\"certification/music/platinum-01.png\" width=\"40px;\" alt=\"Platinum Star\"></a>",
         "artist": "Lewis Capaldi",
@@ -73,7 +67,7 @@ var $table = $('#table');
         "star": "<a rel=\"tooltip\" title=\"Gold Star\" data-placement = \"left\"><img src=\"certification/music/gold-01.png\" width=\"40px;\" alt=\"Gold Star\"></a>",
         "artist": "The Weeknd",
         "title": "Blinding Lights",
-        "date": "06 June, 2020"
+        "date": "06 June, 2020*"
     },
     {
         "star": "<a rel=\"tooltip\" title=\"Gold Star\" data-placement = \"left\"><img src=\"certification/music/gold-01.png\" width=\"40px;\" alt=\"Gold Star\"></a>",
